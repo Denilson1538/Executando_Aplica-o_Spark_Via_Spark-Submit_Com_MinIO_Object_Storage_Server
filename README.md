@@ -1,0 +1,1 @@
+# Executando_Aplica-o_Spark_Via_Spark-Submit_Com_MinIO_Object_Storage_Server
